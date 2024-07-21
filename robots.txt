@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brenberc.github.io/sitemap
+Sitemap: https://brenberc.github.io/app/sitemap
+Sitemap: https://brenberc.github.io/assets/sitemap
+Sitemap: https://brenberc.github.io/css/sitemap
+Sitemap: https://brenberc.github.io/includes/sitemap
+Sitemap: https://brenberc.github.io/item/sitemap
+Sitemap: https://brenberc.github.io/src/sitemap
